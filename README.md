@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Gamze👋
+- 👨‍💻Programmer(Web/App)
+  
+
+
 
 <!--
 **gamzeakmese/gamzeakmese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

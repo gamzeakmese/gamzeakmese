@@ -1,6 +1,6 @@
 # Hi, I'm Gamze👋
 - 👩🏻‍💻Programmer(Web/App)
-- 👨‍🎨 UI/UX Design
+- 👩🏻‍🎨 UI/UX Design
 
 
 
